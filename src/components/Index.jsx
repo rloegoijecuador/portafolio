@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/Index.css'
+import "../../public/DesarrolloWeb-Recurso-01.jpg"
 
 const Inicio = () => {
   return (
