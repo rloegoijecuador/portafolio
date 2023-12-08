@@ -8,7 +8,7 @@ const Inicio = () => {
         <h4 className='clas-present'>🧑‍💻 hola, soy</h4>
         <h1 className='clas-present-name'>igor</h1>
         <h5 className='clas-present-p'>
-            <>desarollador web</>
+            <>desarolladora web full stack</>
         </h5>
     </div>
         <div className='img'>
