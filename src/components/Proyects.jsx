@@ -5,8 +5,9 @@ const Proyects = () => {
     <>
     <h1>Proyectos</h1>
     <div>
+        <a href="https://neon-moonbeam-fe842e.netlify.app/" target="_blank">Rick y morty</a>
         <img src={proyecto1} alt="" />
-        <h3>Rick y morty</h3>
+      
     </div>
     </>
   )
