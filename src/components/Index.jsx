@@ -13,7 +13,7 @@ const Inicio = () => {
         </h5>
     </div>
         <div className='img'>
-        <img src='../../public/DesarrolloWeb-Recurso-01.jpg' width={7G00} alt="img" />
+        <img src='../../public/DesarrolloWeb-Recurso-01.jpg' width={700} alt="img" />
         </div>
 
     </div>
