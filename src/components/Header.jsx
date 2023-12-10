@@ -5,7 +5,7 @@ const Header = () => {
     <div className='container-fluid'>
     <ul className="nav justify-content-end">
   <li className="nav-item">
-    <a clasName="nav-link active" aria-current="page" href="#">home</a>
+    <a clasName="nav-link active" aria-current="page" href="#">🛖</a>
   </li>
   <li className="nav-item">
     <a className="nav-link" href="#">proyects</a>
