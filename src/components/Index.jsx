@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/Index.css'
-import "../../public/DesarrolloWeb-Recurso-01.jpg"
+import "//public/DesarrolloWeb-Recurso-01.jpg"
 
 const Inicio = () => {
   return (
@@ -9,7 +9,7 @@ const Inicio = () => {
         <h4 className='clas-present'>🧑‍💻 hola, soy</h4>
         <h1 className='clas-present-name'>igor</h1>
         <h5 className='clas-present-p'>
-            <>desarolladora web full stack</>
+            <>desarollador web full stack</>
         </h5>
     </div>
         <div className='img'>
