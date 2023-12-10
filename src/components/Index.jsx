@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/Index.css'
-
+import '../../public/DesarrolloWeb-Recurso-01.jpg'
 
 const Inicio = () => {
   return (
@@ -13,7 +13,7 @@ const Inicio = () => {
         </h5>
     </div>
         <div className='img'>
-        <img src="../../public/DesarrolloWeb-Recurso-01.jpg" width={280} alt="img" />
+        <img src='../../public/DesarrolloWeb-Recurso-01.jpg' width={7G00} alt="img" />
         </div>
 
     </div>
