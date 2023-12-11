@@ -1,3 +1,5 @@
+import Footer from "./components/Footer"
+import Habilidades from "./components/Habilidades"
 import Header from "./components/Header"
 import Inicio from "./components/Index"
 import Proyects from "./components/Proyects"
@@ -10,6 +12,8 @@ function App() {
    <Header/>
    <Inicio/>
    <Proyects/>
+   <Habilidades/>
+   <Footer/>
    </div>
   )
 }
