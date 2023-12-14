@@ -10,13 +10,17 @@
 }
 .clas-present{
     font-size: 3em;
+    color: black;
 }
 .clas-present-name{
     font-size: 4.3em;
-    color: black;
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+    background-clip: text;
+    color: transparent;
 }
 .clas-present-p{
     font-size: 2.6em;
+    color: black;
     
 }
 

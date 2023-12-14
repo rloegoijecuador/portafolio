@@ -2,13 +2,13 @@ import '../styles/Header.css'
 
 const Header = () => {
   return (
-    <div className='container-fluid'>
+    <div className='container container-fluid'>
     <ul className="nav justify-content-end">
   <li className="nav-item">
     <a clasName="nav-link active" aria-current="page" href="#">🛖</a>
   </li>
   <li className="nav-item">
-    <a className="nav-link" href="#">proyects</a>
+    <a className="nav-link" href="./proyects.jsx">proyects</a>
   </li>
   <li className="nav-item">
     <a className="nav-link" href="#">skills</a>

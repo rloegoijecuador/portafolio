@@ -7,9 +7,9 @@ const Inicio = () => {
     <div className='container-inicio d-flex aling-items-center justify-content-center'>
     <div className='text'>
         <h4 className='clas-present'>🧑‍💻 hola soy </h4>
-        <h1 className='clas-present-name'>igor</h1>
+        <h1 className='clas-present-name'>igor benavides</h1>
         <h5 className='clas-present-p'>
-            <>desrrollador web full stack</>
+            <>desrrollador fronted con react</>
         </h5>
     </div>
         <div className='img'>
