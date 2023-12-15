@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/Index.css'
-import img from '/public/DesarrolloWeb-Recurso-01.jpg'
+import img from '/public/rempla.header.jpg'
 
 const Inicio = () => {
   return (
